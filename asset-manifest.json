@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-shoplane/static/css/main.3ed95861.chunk.css",
+    "main.js": "/redux-shoplane/static/js/main.33ab4290.chunk.js",
+    "main.js.map": "/redux-shoplane/static/js/main.33ab4290.chunk.js.map",
+    "runtime-main.js": "/redux-shoplane/static/js/runtime-main.647f989c.js",
+    "runtime-main.js.map": "/redux-shoplane/static/js/runtime-main.647f989c.js.map",
+    "static/js/2.6af2f5d6.chunk.js": "/redux-shoplane/static/js/2.6af2f5d6.chunk.js",
+    "static/js/2.6af2f5d6.chunk.js.map": "/redux-shoplane/static/js/2.6af2f5d6.chunk.js.map",
+    "static/js/3.497c2b44.chunk.js": "/redux-shoplane/static/js/3.497c2b44.chunk.js",
+    "static/js/3.497c2b44.chunk.js.map": "/redux-shoplane/static/js/3.497c2b44.chunk.js.map",
+    "index.html": "/redux-shoplane/index.html",
+    "static/css/main.3ed95861.chunk.css.map": "/redux-shoplane/static/css/main.3ed95861.chunk.css.map",
+    "static/js/2.6af2f5d6.chunk.js.LICENSE.txt": "/redux-shoplane/static/js/2.6af2f5d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.647f989c.js",
+    "static/js/2.6af2f5d6.chunk.js",
+    "static/css/main.3ed95861.chunk.css",
+    "static/js/main.33ab4290.chunk.js"
+  ]
+}
